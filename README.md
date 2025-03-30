@@ -1,1 +1,2 @@
-# power-electronics-project
+# Power Electronics project
+This repository contains my work for a university project in Power Electronics. It involves the analysis and simulation of DC-DC converters using MATLAB/Simulink. Throughout the project, I performed component sizing, steady-state analysis, and modeled circuit behavior in different operating conditions. The project improved my ability to work with technical documentation and simulation tools.
